@@ -1,5 +1,5 @@
 # PCG-papers
-In this article, we summarize the PCG (Procedural Content Generation) papers specialized in games.
+In this article, we summarize the PCG (Procedural Content Generation) papers for game research.
 
 ## Survey
 
