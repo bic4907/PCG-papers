@@ -2,6 +2,7 @@
 In this article, we summarize the PCG (Procedural Content Generation) papers for game research.
 
 ## Survey
+- Smith, G. <b>Understanding procedural content generation: a design-centric analysis of the role of PCG in games</b>. CHI, 2014 [[Paper]](http://www.cas.mcmaster.ca/~carette/CAS761/Understanding%20PCG-A%20Design%20Centric%20Analysis.pdf)
 - Liu, J., Snodgrass, S., Khalifa, A., Risi, S., Yannakakis, G. N., & Togelius, J. <b>Deep learning for procedural content generation</b>. Neural Computing and Applications, 2020 [[Paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00521-020-05383-8&casa_token=XMAprJ6NFdEAAAAA:cpsxxGW4tpAUPNnCbiLMe2hHKTF0lmb_I0Wf5xGIM7Hv9sgJyyvwP5PfUUjt33XltJtzkXBMS7XEAbvfIw)
 
 ## RL-based
