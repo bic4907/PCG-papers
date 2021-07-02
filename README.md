@@ -2,12 +2,12 @@
 In this article, we summarize the PCG (Procedural Content Generation) papers for game research.
 
 ## Survey
-
+- Liu, J., Snodgrass, S., Khalifa, A., Risi, S., Yannakakis, G. N., & Togelius, J. <b>Deep learning for procedural content generation</b>. Neural Computing and Applications, 2020 [[Paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s00521-020-05383-8&casa_token=XMAprJ6NFdEAAAAA:cpsxxGW4tpAUPNnCbiLMe2hHKTF0lmb_I0Wf5xGIM7Hv9sgJyyvwP5PfUUjt33XltJtzkXBMS7XEAbvfIw)
 
 ## RL-based
 - Khalifa, A., Bontrager, P., Earle, S., & Togelius, J. <b>Pcgrl: Procedural content generation via reinforcement learning</b>. AIIDE, 2020 [[Paper]](https://ojs.aaai.org/index.php/AIIDE/article/download/7416/7341) [[Code]](https://github.com/amidos2006/gym-pcgrl) `env:pcgrl`
 - Earle, S., Edwards, M., Khalifa, A., Bontrager, P., & Togelius, J. <b>Learning Controllable Content Generators</b>. Arxiv, 2021 [[Paper]](https://arxiv.org/pdf/2105.02993) `env:pcgrl` `env:simcity` `env:rct`
-- Gisslén, L., Eakins, A., Gordillo, C., Bergdahl, J., & Tollmar, K. (2021). <b>Adversarial reinforcement learning for procedural content generation</b>. Arxiv, 2021 [[Paper]](https://arxiv.org/pdf/2103.04847) `arch:adversarial` `env:unity`
+- Gisslén, L., Eakins, A., Gordillo, C., Bergdahl, J., & Tollmar, K. <b>Adversarial reinforcement learning for procedural content generation</b>. Arxiv, 2021 [[Paper]](https://arxiv.org/pdf/2103.04847) `arch:adversarial` `env:unity`
 
 ## GAN-based
 - Awiszus, M., Schubert, F., & Rosenhahn, B. <b>World-GAN: a Generative Model for Minecraft Worlds</b>. Arxiv, 2021 [[Paper]](https://arxiv.org/pdf/2106.10155) `env:minecraft`
