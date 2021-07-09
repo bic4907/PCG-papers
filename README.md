@@ -10,7 +10,7 @@ In this article, we summarize the PCG (Procedural Content Generation) papers for
 - Earle, S., Edwards, M., Khalifa, A., Bontrager, P., & Togelius, J. <b>Learning Controllable Content Generators</b>. Arxiv, 2021 [[Paper]](https://arxiv.org/pdf/2105.02993) `env:pcgrl` `env:simcity` `env:rct`
 - Gisslén, L., Eakins, A., Gordillo, C., Bergdahl, J., & Tollmar, K. <b>Adversarial reinforcement learning for procedural content generation</b>. Arxiv, 2021 [[Paper]](https://arxiv.org/pdf/2103.04847) `arch:adversarial` `env:unity`
 - Dennis, M., Jaques, N., Vinitsky, E., Bayen, A., Russell, S., Critch, A., & Levine, S. <b>Emergent complexity and zero-shot transfer via unsupervised environment design</b>. Arxiv, 2020 [[Paper]](https://arxiv.org/pdf/2012.02096) `arch:adversarial` `env:minigrid`
-- Shu, T., Liu, J., & Yannakakis, G. N <b>Experience-Driven PCG via Reinforcement Learning: A Super Mario Bros Study </b>. arXiv preprint arXiv:2106.15877, 2021. [[Paper]]() `arch:adversarial` `env:smb`
+- Shu, T., Liu, J., & Yannakakis, G. N <b>Experience-Driven PCG via Reinforcement Learning: A Super Mario Bros Study </b>. Arxiv, 2021. [[Paper]]() `arch:adversarial` `env:smb`
 
 ## GAN-based
 - Awiszus, M., Schubert, F., & Rosenhahn, B. <b>World-GAN: a Generative Model for Minecraft Worlds</b>. Arxiv, 2021 [[Paper]](https://arxiv.org/pdf/2106.10155) `env:minecraft`
